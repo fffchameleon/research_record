@@ -1,0 +1,6 @@
+theme: readthedocs
+site_name: research_record
+markdown_extensions:
+  - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: false
