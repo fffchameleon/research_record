@@ -1,5 +1,16 @@
 theme: readthedocs
 site_name: research_record
+nav:
+  - Home: 
+    - Overview: index.md
+    - TODO: todo.md
+  - Dec: 
+    - Week 1: dec_24/week1_dec.md
+not_in_nav: |
+  dec_24/week4_dec.md
+  dec_24/week3_dec.md
+  dec_24/week2_dec.md
+
 markdown_extensions:
   - admonition
   - pymdownx.tasklist:

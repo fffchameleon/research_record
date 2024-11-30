@@ -18,9 +18,3 @@
 | April      | Revise thesis based on oral examination committee comment | 
 | May ~ August | Nvidia internship | 
 | July       | Graduation | 
-
-## TODO list
-- [ ] Profiling
-- [ ] Check for L2 cache usage
-- [ ] Maximize utilizing GPU
-- [ ] Create roofline model image
