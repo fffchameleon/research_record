@@ -12,3 +12,6 @@
 ---
 
 ## Initialization process
+- Profiling result
+- [Previous]: Using a thread to handle an individual
+    - [This_week_goals]: Using a thread to handle specific number of genes
