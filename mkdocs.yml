@@ -4,14 +4,17 @@ nav:
   - Home: 
     - Overview: index.md
     - TODO: todo.md
-  - Dec: 
+  - Jan 2025:
+    - Week 1: jan_25/week1_jan.md
+    - Week 2: jan_25/week2_jan.md 
+  - Dec 2024: 
     - Week 1: dec_24/week1_dec.md
-not_in_nav: |
-  dec_24/week4_dec.md
-  dec_24/week3_dec.md
-  dec_24/week2_dec.md
+    - Week 2: dec_24/week4_dec.md
+    - Week 3: dec_24/week3_dec.md
+    - Week 4: dec_24/week2_dec.md
 
 markdown_extensions:
   - admonition
   - pymdownx.tasklist:
       custom_checkbox: false
+  - attr_list

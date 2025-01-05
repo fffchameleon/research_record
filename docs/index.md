@@ -1,7 +1,7 @@
 # TF & early graduation
 !!! Important
     **Oral examination before May**
-
+- [TF slide link google drive](https://drive.google.com/drive/folders/15BktO4wUsKRRLrXZcZKXsBHXypyHoC0A?usp=share_link){target="_blank"}
 ## My research topics
 - Accelerating Genetic Algorithm for Large Population Using CUDA
 ## Related work
